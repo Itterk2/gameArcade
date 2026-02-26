@@ -9,9 +9,7 @@ PLAYER_SPEED = 7
 FALL_SPEED = 5
 
 
-class CatchGame(git add .
-git commit -m "add game file"
-git pusharcade.Window):
+class CatchGame(arcade.Window):
 
     def __init__(self):
         super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
